@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-
 <html>
 <head>
-    <title>My HTML Page</title>
+<title>My HTML Page</title>
 </head>
 <body style="text-align: center; background: linear-gradient(to top, #d3d3d3, #000435); color: white;">
     <h1 style="font-family: 'Times New Roman'; ">Ahsan's First HTML Page</h1>
