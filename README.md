@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahsan's First HTML Page</title>
 </head>
 <body style="text-align: center; background: linear-gradient(to top, #d3d3d3, #000435); color: white;">
     <h1 style="font-family: 'Times New Roman';">Ahsan's First HTML Page</h1>
